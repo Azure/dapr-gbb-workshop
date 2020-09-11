@@ -68,9 +68,6 @@ The diagram below is a depiction of the workshop journey and an overview of the 
 
 Once you are ready, please begin by installing the [prerequisites](./prerequisites.md) and reading the [customer story](customer-story.md)...
 
-\
-<sub> *Built with love by the Dapr Vigilantes* <sup>TM</sup> </sub>
-
 
 # Contributing
 
