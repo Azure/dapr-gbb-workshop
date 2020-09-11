@@ -64,12 +64,10 @@ The diagram below is a depiction of the workshop journey and an overview of the 
 \
 ![Challenge Path](challenges/images/challenge-path.png)
 
-## Lets Begin!
+## Additional Information
 
-Once you are ready, please begin by installing the [prerequisites](./prerequisites.md) and reading the [customer story](customer-story.md)...
+In order to partake in the workshop, you will be required to install the following [prerequisites](./prerequisites.md). In order to understand more about the customer backstory, check out the [customer story](customer-story.md)...
 
-\
-<sub> *Built with love by the Dapr Vigilantes* <sup>TM</sup> </sub>
 
 # Contributing
 
