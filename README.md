@@ -71,7 +71,7 @@ Once you are ready, please begin by installing the [prerequisites](./prerequisit
 \
 <sub> *Built with love by the Dapr Vigilantes* <sup>TM</sup> </sub>
 
-\
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
