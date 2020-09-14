@@ -2,11 +2,11 @@
 
 ## Overview & Goals
 
-Microservices can be hard. But, while being exceedingly difficult to architect they have become an increasingly popular architecture pattern. As developers begin to migrate from existing monolithic code bases to a microservices system, they spend much of their time dealing with the inherent challenges presented by distributed applications, such as state management and service invocation 
+Microservices can be hard. But, while being exceedingly difficult to architect they have become an increasingly popular architecture pattern. As developers begin to migrate from existing monolithic code bases to a microservices system, they spend much of their time dealing with the inherent challenges presented by distributed applications, such as state management and service invocation.
 
 Enter [Dapr](https://dapr.io/) - A **D**istributed **Ap**plication **R**untime built with developers in mind. Dapr helps out with some of these problems by providing consistent building blocks in the form of http/gRPC APIs that can be called natively or using one of the language SDKs.
 
-Some Dapr lovers have created this workshop with the hopes of illustrating how microservice development can be made easier with Dapr!
+The Cloud Native Global Black Belt (GBB) Team has created this workshop with the hopes of illustrating how microservice development can be made easier with Dapr!
 
 \
 This workshop **is**:
@@ -26,6 +26,7 @@ This workshop is **not**:
 
 * An opportunity to learn new programming languages
 
+
 ## Target Audience
 
 This workshop was created for software developers who are looking to gain a deeper understanding of how to build cloud native, distributed applications. Ideally, those looking to participate will have previous hands-on experience with microservice-based applications, however knowledge of the architectural style may also be sufficient.
@@ -39,7 +40,6 @@ Experience with the following is required:
 Experience with the following is recommended:
 
 * .Net Core, NodeJS or Golang programming languages 
-* Distributed systems
 
 ## Learning Objectives
 
@@ -59,14 +59,14 @@ Over the period of approximately two days, participants will use a variety of Da
 
 The diagram below is a depiction of the workshop journey and an overview of the Dapr concepts that will be covered along the way. 
 
-**NOTE:** Challenge 6 is optional, as it does not provide an introduction to any new Dapr concepts, but rather improves the UI. Challenge 7 is a multi-part challenge as it deals with the operationalization of Dapr projects as a whole.
+**NOTE:** Challenge 6 is optional, as it does not provide an introduction to any new Dapr concepts, but rather improves the UI. Challenge 7 is a multi-part challenge as it deals with the operationalization of Dapr projects as a whole in Kubernetes.
 
 \
 ![Challenge Path](challenges/images/challenge-path.png)
 
-## Additional Information
+## Prerequisites
 
-In order to partake in the workshop, you will be required to install the following [prerequisites](./prerequisites.md). In order to understand more about the customer backstory, check out the [customer story](customer-story.md)...
+In order to partake in the workshop, you will be required to install the following [technical prerequisites](./prerequisites.md). In order to understand more about the customer backstory, check out the [customer story](customer-story.md)...
 
 
 # Contributing
