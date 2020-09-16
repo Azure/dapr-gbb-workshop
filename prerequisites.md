@@ -4,7 +4,7 @@ The required prerequisites that need to be set up **before** the workshop.
 
 - Dapr
   - [Install Dapr locally](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#prerequisites)
-  - Minimum version: 0.7.0
+  - Minimum version: 0.10.0
   
 - .Net Core 
   - [Install .NET Core](https://dotnet.microsoft.com/download/dotnet-core/3.1)
