@@ -2,13 +2,34 @@
 
 The required prerequisites that need to be set up **before** the workshop.
 
+### Language Support (for your language of choice):
+
+- .Net Core 
+  - Install [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+    - Version: 3.1
+  - VSCode [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+
+- Golang
+  - Install [Go](https://golang.org/doc/install)
+    - Minimum version: 1.14
+  - VScode [Go Extension](https://marketplace.visualstudio.com/items?itemName=golang.go)
+
+- Java 
+  - Install Java SDK through [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or [OpenJDK](https://jdk.java.net/archive/)
+    - Version: 11.0.8
+  - Apache Maven (https://maven.apache.org/install.html)
+    - Minimum version: 3.6.3
+  - VSCode [Lombok Annotations Support](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
+
+### All Languages: 
+
+- NodeJS (for UI)
+  - [Install Node](https://nodejs.org/en/download/)
+  - Minimum version: LTS 12.19.0 or Current 14.13.1
+
 - Dapr
   - [Install Dapr locally](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#prerequisites)
-  - Minimum version: 0.10.0
-  
-- .Net Core 
-  - [Install .NET Core](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-  - Minimum version: 3.1
+  - Version: 0.11.0
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
@@ -29,10 +50,6 @@ The required prerequisites that need to be set up **before** the workshop.
 
 - Git 
   - [Install SCM](https://git-scm.com/downloads)
-
-- Node
-  - [Install Node](https://nodejs.org/en/download/)
-  - Minimum version: 12.16.0
 
 - Docker (recommended)
   - [Install Community Edition](https://docs.docker.com/v17.09/engine/installation/)
