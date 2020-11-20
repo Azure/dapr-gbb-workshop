@@ -55,7 +55,7 @@ The required prerequisites that need to be set up **before** the workshop.
 - Docker
   - [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
   - [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
-  - [Install Docker for WSL 2](https://dev.to/bartr/install-docker-on-windows-subsystem-for-linux-v2-ubuntu-5dl7#:~:text=%20Install%20Docker%20on%20Windows%20Subsystem%20for%20Linux,The%20below%20command...%204%20Lagniappe.%20%20More%20)
+  - [Install Docker for Windows Subsystem for Linux (WSL) 2](https://dev.to/bartr/install-docker-on-windows-subsystem-for-linux-v2-ubuntu-5dl7#:~:text=%20Install%20Docker%20on%20Windows%20Subsystem%20for%20Linux,The%20below%20command...%204%20Lagniappe.%20%20More%20)
 
 - GitHub Account
   - [GitHub Account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account)
@@ -69,3 +69,6 @@ The required prerequisites that need to be set up **before** the workshop.
   
 - Rest Client (recommended) 
   - [Install Postman](https://www.postman.com/downloads/)
+
+- Windows Subsystem for Linux 2 (optional)
+  - [Install WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
