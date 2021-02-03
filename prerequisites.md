@@ -20,17 +20,18 @@ The required prerequisites that need to be set up **before** the workshop.
   - Apache Maven (https://maven.apache.org/install.html)
     - Minimum version: 3.6.3
   - VSCode [Lombok Annotations Support](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
+  - VSCode [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ### All Languages: 
 
 - NodeJS 
   - [Install Node](https://nodejs.org/en/download/)
-  - Minimum version: LTS 12.19.0 or Current 14.13.1
+  - Minimum versions: LTS 12.19.0 or Current 14.13.1
 
 - Dapr
-  - [Install Dapr CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
-  - [Install Dapr Runtime](https://docs.dapr.io/getting-started/install-dapr/)
-  - Minimum version: 0.11.3, or upcoming v1.0 release candidates
+  - [Install Dapr CLI](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-cli/)
+  - [Install Dapr Runtime](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-selfhost/)
+  - Version: Latest v1.0 release candidates (CLI version: 1.0.0-rc.4, Runtime version: 1.0.0-rc.3)
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
