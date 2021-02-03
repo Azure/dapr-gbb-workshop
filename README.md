@@ -39,7 +39,7 @@ Experience with the following is required:
 
 Experience with the following is recommended:
 
-* .Net Core, NodeJS or Golang programming languages 
+* .Net Core, NodeJS, Java or Golang programming languages 
 
 ## Learning Objectives
 
@@ -50,7 +50,7 @@ Over the period of approximately two days, participants will use a variety of Da
 | Dapr Local Development | Get Dapr running locally and set-up a local development environment. |
 | Pub-sub | Use a Dapr pub-sub component to publish orders to three different subscribers.     |
 | State & Secret Management   | Use Dapr State and Secret building block APIs to store and access data. |
-| Service-to-service Invocation | Implement service-to-service invocation calls between microservices. |
+| Service-to-service Invocation | Implement an input binding and service-to-service invocation calls between microservices.  |
 | Distributed Tracing | Configure and view end-to-end tracing across Dapr components. |
 | Output Bindings | Construct storage and SignalR output bindings. |
 | Dapr on K8s | Configure and deploy microservices application and all Dapr components onto AKS. |
