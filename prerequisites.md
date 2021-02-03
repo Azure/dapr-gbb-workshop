@@ -20,16 +20,18 @@ The required prerequisites that need to be set up **before** the workshop.
   - Apache Maven (https://maven.apache.org/install.html)
     - Minimum version: 3.6.3
   - VSCode [Lombok Annotations Support](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
+  - VSCode [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ### All Languages: 
 
-- NodeJS (for UI)
+- NodeJS 
   - [Install Node](https://nodejs.org/en/download/)
-  - Minimum version: LTS 12.19.0 or Current 14.13.1
+  - Minimum versions: LTS 12.19.0 or Current 14.13.1
 
 - Dapr
-  - [Install Dapr locally](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#prerequisites)
-  - Version: 0.11.0
+  - [Install Dapr CLI](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-cli/)
+  - [Install Dapr Runtime](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-selfhost/)
+  - Version: Latest v1.0 release candidates (CLI version: 1.0.0-rc.4, Runtime version: 1.0.0-rc.3)
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
@@ -40,7 +42,7 @@ The required prerequisites that need to be set up **before** the workshop.
   - Minimum version: 2.0.80
 
 - Kubectl CLI
-  - [Install CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough#connect-to-the-cluster)
+  - [Install CLI](https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest#az_aks_install_cli)
   - Minimum Version: 1.15.0
 
 - Helm
@@ -49,14 +51,14 @@ The required prerequisites that need to be set up **before** the workshop.
   - Minimum version: 3.1.0
 
 - Git 
-  - [Install SCM](https://git-scm.com/downloads)
+  - [Install Git](https://git-scm.com/downloads)
 
-- Docker (recommended)
-  - [Install Community Edition](https://docs.docker.com/v17.09/engine/installation/)
-  - [Install Docker for Mac](https://docs.docker.com/v17.09/docker-for-mac/install/)
-  - [Install Docker for Windows](https://docs.docker.com/v17.09/docker-for-windows/install/)
+- Docker
+  - [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+  - [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+  - [Install Docker for Windows Subsystem for Linux (WSL) 2](https://dev.to/bartr/install-docker-on-windows-subsystem-for-linux-v2-ubuntu-5dl7#:~:text=%20Install%20Docker%20on%20Windows%20Subsystem%20for%20Linux,The%20below%20command...%204%20Lagniappe.%20%20More%20)
 
-- GitHub Account (recommended)
+- GitHub Account
   - [GitHub Account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account)
 
 - Code Editor of choice (VSCode recommended)
@@ -66,5 +68,8 @@ The required prerequisites that need to be set up **before** the workshop.
   - [REST API Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   - [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   
-- Postman (recommended)
+- Rest Client (recommended) 
   - [Install Postman](https://www.postman.com/downloads/)
+
+- Windows Subsystem for Linux 2 (optional)
+  - [Install WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
