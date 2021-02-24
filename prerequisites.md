@@ -29,9 +29,9 @@ The required prerequisites that need to be set up **before** the workshop.
   - Minimum versions: LTS 12.19.0 or Current 14.13.1
 
 - Dapr
-  - [Install Dapr CLI](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-cli/)
-  - [Install Dapr Runtime](https://v1-rc3.docs.dapr.io/getting-started/install-dapr-selfhost/)
-  - Version: Latest v1.0 release candidates (CLI version: 1.0.0-rc.4, Runtime version: 1.0.0-rc.3)
+  - [Install Dapr CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
+  - [Install Dapr Runtime](https://docs.dapr.io/getting-started/install-dapr-selfhost/)
+  - Version: v1.0
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
