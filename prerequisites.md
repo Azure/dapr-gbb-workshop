@@ -31,7 +31,8 @@ The required prerequisites that need to be set up **before** the workshop.
 - Dapr
   - [Install Dapr CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
   - [Install Dapr Runtime](https://docs.dapr.io/getting-started/install-dapr-selfhost/)
-  - Version: v1.0
+  - [Upgrading Dapr](https://docs.dapr.io/operations/hosting/self-hosted/self-hosted-upgrade/)
+  - Minimum Version: 1.0.0
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
