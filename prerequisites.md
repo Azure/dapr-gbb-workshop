@@ -5,8 +5,8 @@ The required prerequisites that need to be set up **before** the workshop.
 ### Language Support (for your language of choice):
 
 - .Net Core 
-  - Install [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-    - Version: 3.1
+  - Install [.NET Core](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+    - Version: 6.0.x
   - VSCode [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
 - Golang
@@ -26,13 +26,13 @@ The required prerequisites that need to be set up **before** the workshop.
 
 - NodeJS 
   - [Install Node](https://nodejs.org/en/download/)
-  - Minimum versions: LTS 12.19.0 or Current 14.13.1
+  - Version: LTS 16.15.0
 
 - Dapr
   - [Install Dapr CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
-  - [Install Dapr Runtime](https://docs.dapr.io/getting-started/install-dapr-selfhost/)
+  - [Initialize Dapr/Install Runtime](https://docs.dapr.io/getting-started/install-dapr-selfhost/)
   - [Upgrading Dapr](https://docs.dapr.io/operations/hosting/self-hosted/self-hosted-upgrade/)
-  - Minimum Version: 1.0.0
+  - Minimum Version: 1.7 (latest)
 
 - Azure Subscription
   - [Azure Portal](https://portal.azure.com)
@@ -44,7 +44,7 @@ The required prerequisites that need to be set up **before** the workshop.
 
 - Kubectl CLI
   - [Install CLI](https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest#az_aks_install_cli)
-  - Minimum Version: 1.15.0
+  - Version: 1.21.x
 
 - Helm
   - [Install Helm](https://helm.sh/docs/intro/install/)
